@@ -3,7 +3,7 @@ title:       Outiller CAFDO
 email:       cecile@datactivi.st
 author:      OGP Toolbox
 description: "Ce blog présente le projet Outiller CAFDO"
-baseurl:     "https://cecilaki.github.io/outiller-cafdo"
+baseurl:     "/outiller-cafdo"
 url:         "https://cecilaki.github.io/outiller-cafdo"
 date_format: "%b %-d, %Y"
 header_pages:
