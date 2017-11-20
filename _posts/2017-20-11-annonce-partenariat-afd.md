@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Annonce de partenariat Outiller Cafdo
-date:       2015-07-11
+date:       2017-20-11
 summary:    Annonce du partenariat AFD OGP Toolbox
 categories: afd annonce
 ---
@@ -24,3 +24,7 @@ Certaines difficultés à prendre en main les outils d’open data, et des quest
 </blockquote>
 
 ## Notre approche
+
+Nous proposons un programme d’un an axé sur l’outillage de la communauté open data en Afrique francophone, à travers l’accompagnement technique d’un projet pilote utilisant les données ouvertes dans un objectif de développement durable et/ou de gouvernance participative. **Ce projet a vocation à servir de modèle dans la communauté open data francophone pour être repris, dupliqué et essaimé, en partageant au fil de l’eau les acquis engrangés pendant toute la période pilote.**
+
+Ce projet pilote sera sélectionné par appel à projet lors d’un processus ouvert, comprenant entretiens et notation sur un ensemble de critères tels que la pertinence de l'idée ou du projet, la capacité d'intégrer efficacement la technologie au travail nécessaire pour sa réalisation et les motivations de l’équipe partenaire.
