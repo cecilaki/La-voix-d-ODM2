@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Annonce de partenariat Outiller Cafdo
-date:       2017-20-11
+date:       2017-11-11 12:31:19
 summary:    Annonce du partenariat AFD OGP Toolbox
 categories: afd annonce
 ---
