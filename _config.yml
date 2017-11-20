@@ -1,10 +1,10 @@
 # Site settings
-title:       La voix Open Data Medias2
+title:       Outiller CAFDO
 email:       cecile@datactivi.st
-author:      Open Data Medias 2
-description: "Ce blog présente les travaux réalisés par les participant.e.s du programme Open Data Medias 2"
-baseurl:     "https://cecilaki.github.io/La-voix-d-ODM2"
-url:         "https://cecilaki.github.io/La-voix-d-ODM2"
+author:      OGP Toolbox
+description: "Ce blog présente le projet Outiller CAFDO"
+baseurl:     "https://cecilaki.github.io/outiller-cafdo"
+url:         "https://cecilaki.github.io/outiller-cafdo"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
