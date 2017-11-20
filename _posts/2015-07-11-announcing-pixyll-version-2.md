@@ -4,6 +4,7 @@ title:      Annonce de partenariat Outiller Cafdo
 date:       2015-07-11
 summary:    Annonce du partenariat AFD OGP Toolbox
 categories: jekyll pixyll
+published: false
 ---
 
 OGP Toolbox a le plaisir de vous annoncer le lancement du projet **"Outiller Cafdo"**.
