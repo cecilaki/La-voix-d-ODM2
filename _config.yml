@@ -1,8 +1,8 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       La voix Open Data Medias2
+email:       cecile@datactivi.st
+author:      Open Data Medias 2
+description: "Ce blog présente les travaux réalisés par les participant.e.s du programme Open Data Medias 2"
 baseurl:     "https://cecilaki.github.io/La-voix-d-ODM2"
 url:         "https://cecilaki.github.io/La-voix-d-ODM2"
 date_format: "%b %-d, %Y"
